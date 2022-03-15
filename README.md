@@ -17,7 +17,7 @@ Math magicians is my Microverse Module 3 project which is a single page applicat
 
 ## Live Demo
 
-A live version of the project can be seen [here]() (none at this moment)
+A live version of the project can be seen [here](https://mystifying-swirles-7bcfab.netlify.app/)
 
 
 ## Getting Started
