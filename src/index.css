@@ -1,4 +1,4 @@
-*{
+* {
   font-family: 'Poppins', sans-serif;
   font-size: 19px;
 }
@@ -6,31 +6,36 @@
 .App {
   width: 400px;
   position: absolute;
-left: 50%;
-top: 50%;
-transform: translate(-50%, -50%);
-box-shadow: 0 0 25px 0 #aaa;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 25px 0 #aaa;
 }
 
 .resultsPanel {
   background-color: #858694;
   padding: 30px;
+
   /* width: 100%; */
   text-align: right;
   color: #fff;
 }
+
 .buttons button {
   width: 100px;
   padding: 34px;
 }
+
 .buttons .button-17 {
   width: 200px;
 }
+
 .buttons .x {
   background: linear-gradient(to bottom, rgba(252, 156, 23, 1) 0%, rgba(247, 126, 27, 1) 100%);
   transition: 0.5s;
 }
+
 .buttons .x:hover {
-  background: linear-gradient(to bottom, rgba(252, 156, 23, .7) 0%, rgba(247, 126, 27, .7) 100%);
- color: #fff;
+  background: linear-gradient(to bottom, rgba(252, 156, 23, 0.7) 0%, rgba(247, 126, 27, 0.7) 100%);
+  color: #fff;
 }
