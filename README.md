@@ -4,7 +4,7 @@
 
 Math magicians is my Microverse Module 3 project which is a single page application that will feature a calculator page, contacts section page.
 
-![screenshot](./images/mathgecians1.png)
+![screenshot](./images/mathGecians.png)
 
 ## Built With
 
