@@ -4,6 +4,7 @@ import Calculator from './components/Calculator';
 import Navbar from './components/Navbar';
 import Quote from './components/Quote';
 import Home from './components/Home';
+import Footer from './components/Footer';
 
 const App = () => (
   <div className="App">
@@ -13,6 +14,7 @@ const App = () => (
       <Route path='/calculator' element={<Calculator />} />
       <Route exact path='/quote' element={<Quote />} />
     </Routes>
+    <Footer />
   </div>
 );
 

@@ -4,6 +4,7 @@ import './index.css';
 import './Calculator.css';
 import './Navbar.css';
 import './Home.css';
+import './Footer.css';
 import './Quote.css'
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
