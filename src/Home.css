@@ -1,0 +1,14 @@
+.home {
+  width: 90%;
+  margin: 6% 5%;
+}
+.home h1 {
+  font-size: 45px;
+  margin-bottom: 40px;
+}
+
+.home p {
+  width: 80%;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
