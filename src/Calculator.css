@@ -4,9 +4,11 @@
   left: 20%;
   top: 50%;
 }
+
 .left h1 {
   font-size: 45px;
 }
+
 .right {
   width: 400px;
   position: absolute;

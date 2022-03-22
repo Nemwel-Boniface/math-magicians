@@ -14,38 +14,38 @@ const Calculator = () => {
   return (
     <>
       <div className="calculator w3-animate-zoom">
-        <div className='left'>
-          <h1>Let's do some math!</h1>
+        <div className="left">
+          <h1>Let&apos;s do some math!</h1>
         </div>
-        <div className='right'>
+        <div className="right">
           <div className="resultsPanel">
             <span className="result">
               {total}
               {operation}
               {next}
             </span>
-        </div>
-        <div className="buttons">
-          <button onClick={handleCalc} type="button" className="btn1">AC</button>
-          <button onClick={handleCalc} type="button" className="btn2">+/-</button>
-          <button onClick={handleCalc} type="button" className="btn3">%</button>
-          <button onClick={handleCalc} type="button" className="btn4 x">÷</button>
-          <button onClick={handleCalc} type="button" className="btn5">7</button>
-          <button onClick={handleCalc} type="button" className="btn6">8</button>
-          <button onClick={handleCalc} type="button" className="btn7">9</button>
-          <button onClick={handleCalc} type="button" className="btn8 x">x</button>
-          <button onClick={handleCalc} type="button" className="btn9">4</button>
-          <button onClick={handleCalc} type="button" className="btn0">5</button>
-          <button onClick={handleCalc} type="button" className="btn11">6</button>
-          <button onClick={handleCalc} type="button" className="btn12 x">-</button>
-          <button onClick={handleCalc} type="button" className="btn13">1</button>
-          <button onClick={handleCalc} type="button" className="btn14">2</button>
-          <button onClick={handleCalc} type="button" className="btn15">3</button>
-          <button onClick={handleCalc} type="button" className="btn16 x">+</button>
-          <button onClick={handleCalc} type="button" className="btn17 double">0</button>
-          <button onClick={handleCalc} type="button" className="btn18">.</button>
-          <button onClick={handleCalc} type="button" className="btn19 x">=</button>
-        </div>
+          </div>
+          <div className="buttons">
+            <button onClick={handleCalc} type="button" className="btn1">AC</button>
+            <button onClick={handleCalc} type="button" className="btn2">+/-</button>
+            <button onClick={handleCalc} type="button" className="btn3">%</button>
+            <button onClick={handleCalc} type="button" className="btn4 x">÷</button>
+            <button onClick={handleCalc} type="button" className="btn5">7</button>
+            <button onClick={handleCalc} type="button" className="btn6">8</button>
+            <button onClick={handleCalc} type="button" className="btn7">9</button>
+            <button onClick={handleCalc} type="button" className="btn8 x">x</button>
+            <button onClick={handleCalc} type="button" className="btn9">4</button>
+            <button onClick={handleCalc} type="button" className="btn0">5</button>
+            <button onClick={handleCalc} type="button" className="btn11">6</button>
+            <button onClick={handleCalc} type="button" className="btn12 x">-</button>
+            <button onClick={handleCalc} type="button" className="btn13">1</button>
+            <button onClick={handleCalc} type="button" className="btn14">2</button>
+            <button onClick={handleCalc} type="button" className="btn15">3</button>
+            <button onClick={handleCalc} type="button" className="btn16 x">+</button>
+            <button onClick={handleCalc} type="button" className="btn17 double">0</button>
+            <button onClick={handleCalc} type="button" className="btn18">.</button>
+            <button onClick={handleCalc} type="button" className="btn19 x">=</button>
+          </div>
         </div>
       </div>
     </>

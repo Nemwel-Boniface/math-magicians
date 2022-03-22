@@ -1,6 +1,7 @@
 .navBar {
   height: 120px;
 }
+
 .navBar nav {
   display: flex;
   justify-content: space-between;
@@ -14,10 +15,12 @@
   display: flex;
   margin: auto 0;
 }
+
 .navBar nav ul li {
   list-style-type: none;
   margin-right: 20px;
 }
+
 .bar {
   padding-right: 10px;
   border-right: 2px solid #000;
