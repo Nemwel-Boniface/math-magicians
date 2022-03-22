@@ -14,12 +14,16 @@ const Calculator = () => {
   return (
     <>
       <div className="calculator">
-        <div className="resultsPanel">
-          <span className="result">
-            {total}
-            {operation}
-            {next}
-          </span>
+        <div className='left'>
+          <h1>Let's do some math!</h1>
+        </div>
+        <div className='right'>
+          <div className="resultsPanel">
+            <span className="result">
+              {total}
+              {operation}
+              {next}
+            </span>
         </div>
         <div className="buttons">
           <button onClick={handleCalc} type="button" className="btn1">AC</button>
@@ -41,6 +45,7 @@ const Calculator = () => {
           <button onClick={handleCalc} type="button" className="btn17 double">0</button>
           <button onClick={handleCalc} type="button" className="btn18">.</button>
           <button onClick={handleCalc} type="button" className="btn19 x">=</button>
+        </div>
         </div>
       </div>
     </>

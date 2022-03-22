@@ -1,8 +1,17 @@
-.calculator {
+
+.left {
+  position: absolute;
+  left: 20%;
+  top: 50%;
+}
+.left h1 {
+  font-size: 45px;
+}
+.right {
   width: 400px;
   position: absolute;
-  right: 4%;
-  top: 50%;
+  right: 1%;
+  top: 60%;
   transform: translate(-50%, -50%);
   box-shadow: 0 0 25px 0 #aaa;
 }
