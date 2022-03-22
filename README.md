@@ -2,9 +2,12 @@
 
 # math-magicians
 
-Math magicians is my Microverse Module 3 project which is a single page application that will feature a calculator page, contacts section page.
+Math magicians is a single page application that features three pages: A Home page with some welcoming textx, A Calculator page which has a page with a calculator that you can o math with and a Quotes page which has a quote about what "Math magicians are".
+Enjoy!
 
-![screenshot](./images/mathGecians.png)
+![screenshot](./images/mathCalc.png)
+![screenshot](./images/mathHome.png)
+![screenshot](./images/mathQuote.png)
 
 ## Built With
 
@@ -17,7 +20,7 @@ Math magicians is my Microverse Module 3 project which is a single page applicat
 
 ## Live Demo
 
-A live version of the project can be seen [here](https://gallant-tereshkova-890031.netlify.app/)
+A live version of the project can be seen [here](https://extraordinary-brigadeiros-b53b16.netlify.app/)
 
 
 ## Getting Started

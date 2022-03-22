@@ -1,0 +1,10 @@
+.quote {
+  position: absolute;
+  top: 35%;
+  width: 800px;
+  left: 23%;
+}
+
+.quote h2 {
+  font-size: 35px;
+}
