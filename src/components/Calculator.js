@@ -13,7 +13,7 @@ const Calculator = () => {
 
   return (
     <>
-      <div className="calculator">
+      <div className="calculator w3-animate-zoom">
         <div className='left'>
           <h1>Let's do some math!</h1>
         </div>
