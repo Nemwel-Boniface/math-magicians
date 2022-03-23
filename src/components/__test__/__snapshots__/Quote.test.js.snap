@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should create a Qoutes snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="quote w3-animate-zoom"
+  >
+    <h2>
+      Math Magicians is not about numbers, equations, computations or algorithms, It is about understanding - William Paul Thurston
+    </h2>
+  </div>
+</DocumentFragment>
+`;
