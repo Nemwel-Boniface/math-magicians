@@ -5,11 +5,9 @@ import Navbar from './components/Navbar';
 import Quote from './components/Quote';
 import Home from './components/Home';
 import Footer from './components/Footer';
-import Button from './components/button/button';
 
 const App = () => (
   <div className="App">
-    <Button label="Click me please" />
     <Navbar />
     <Routes>
       <Route exact path="/" element={<Home />} />

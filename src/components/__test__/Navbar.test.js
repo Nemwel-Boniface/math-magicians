@@ -1,4 +1,3 @@
-
 import { render, screen, fireEvent } from '@testing-library/react';
 import { HashRouter } from 'react-router-dom';
 import { toMatchDiffSnapshot } from 'snapshot-diff';
@@ -30,4 +29,3 @@ it('Check if the third click is the Quotes page', () => {
 
   expect(firstRender).toMatchDiffSnapshot(asFragment());
 });
-
