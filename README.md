@@ -5,8 +5,8 @@
 Math magicians is a single page application that features three pages: A Home page with some welcoming textx, A Calculator page which has a page with a calculator that you can o math with and a Quotes page which has a quote about what "Math magicians are".
 Enjoy!
 
-![screenshot](./images/mathCalc.png)
 ![screenshot](./images/mathHome.png)
+![screenshot](./images/mathCalc.png)
 ![screenshot](./images/mathQuote.png)
 
 ## Built With
@@ -20,7 +20,9 @@ Enjoy!
 
 ## Live Demo
 
-A live version of the project can be seen [here](https://extraordinary-brigadeiros-b53b16.netlify.app/)
+This project was deployed to two places:
+- [Netlify](https://extraordinary-brigadeiros-b53b16.netlify.app/)
+- [Heroku](https://nemwel-math-magicians.herokuapp.com/calculator)
 
 
 ## Getting Started
