@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Expect to create a Footer snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="footer"
+  >
+    <p>
+      © Created by
+      <a
+        href="https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/"
+      >
+        Nemwel
+      </a>
+       under MIT licence.
+    </p>
+  </div>
+</DocumentFragment>
+`;
